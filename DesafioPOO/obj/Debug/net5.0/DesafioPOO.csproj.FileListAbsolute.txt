@@ -1,0 +1,16 @@
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.exe
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.deps.json
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.runtimeconfig.json
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.runtimeconfig.dev.json
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.dll
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.pdb
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.dll
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\refint\DesafioPOO.dll
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.pdb
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\rober\Desktop\workspace\Desafio_EduSync\DesafioPOO\DesafioPOO\obj\Debug\net5.0\ref\DesafioPOO.dll
